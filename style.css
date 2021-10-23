@@ -1,0 +1,23 @@
+body {
+  background-color: yellow;
+}
+
+.ctr {
+  text-align: center;
+}
+
+p {
+  color: green;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+#cool-text {
+  color: blue;
+}
+
+#specialColor {
+  color: aqua;
+}
